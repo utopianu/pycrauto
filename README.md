@@ -1,1 +1,1 @@
-# pycrauto
+Simple Python Crawler for Douban Movie
